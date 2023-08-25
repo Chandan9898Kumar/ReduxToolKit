@@ -22,3 +22,9 @@ In the project directory, you can run:
 
 `createEntityAdapter:` generates a set of reusable reducers and selectors to manage normalized data in the store.
 The createSelector utility from the Reselect library, re-exported for ease of use.
+
+
+
+###  To Install Redux , Saga  and Redux/Toolkit  :
+
+`npm install @reduxjs/toolkit react-redux redux-saga`
